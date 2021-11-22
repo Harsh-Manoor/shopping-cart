@@ -23,6 +23,11 @@ const Navbar = () => {
 
   return (
     <BootstrapNavbar color="light" light className="px-0 border-bottom mb-3">
+
+      <div className="logo-container">
+        <h1>Kapsons</h1>
+      </div>
+
       <Nav className="mr-auto" navbar>
         {LINKS.map(({ link, text }) => (
           <NavItem key={link}>

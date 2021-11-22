@@ -1,61 +1,132 @@
 [
   {
     "id": "1a",
-    "name": "Ducky One 2",
-    "price": 100,
-    "currency": "USD",
+    "name": "Kyrie 8 EP",
+    "price": 11500,
+    "currency": "Rs.",
     "delivery": false,
-    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_DKME1961ST-USPDZZT1_10.jpg",
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f1c54d54-bb91-4df0-99fc-76fcb009ad49/kyrie-8-ep-basketball-shoes-QJ01t9.png",
     "inStock": true,
     "categoryId": "fgsa2142fa"
   },
   {
     "id": "2a",
-    "name": "Varmilo Sakura",
-    "price": 140,
-    "currency": "USD",
+    "name": "Air Jordan XXXVI 'First Light' PF",
+    "price": 16000,
+    "currency": "Rs",
     "delivery": true,
-    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2790_SakuraTKL_1.jpg",
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/12145a62-d3d8-469e-a35a-05320c043b6a/air-jordan-xxxvi-first-light-pf-basketball-shoes-fjPfDg.png",
     "inStock": true,
     "categoryId": "fgsa2142fa"
   },
   {
     "id": "3a",
-    "name": "MK Disco",
-    "price": 80,
-    "currency": "USD",
+    "name": "Nike Air Zoom Tempo NEXT% FlyEase",
+    "price": 17780,
+    "currency": "Rs",
     "delivery": true,
-    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2017_Disco_White_Caps_1.png",
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d1a76ce0-199c-4e54-9cf1-a4f23a5adaac/air-zoom-tempo-next-flyease-easy-on-off-road-running-shoes-40pJSQ.png",
     "inStock": false,
     "categoryId": "fgsa2142fa"
   },
   {
-    "id": "4b",
-    "name": "Razer Kraken",
-    "price": 60,
-    "currency": "USD",
+    "id": "4a",
+    "name": "Air Jordan 1 Mid SE",
+    "price": 10200,
+    "currency": "Rs",
     "delivery": false,
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
-    "inStock": false,
-    "categoryId": "xasgy42fa"
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cfb8dda3-245d-44d8-8e65-3793df07a087/air-jordan-1-mid-se-shoes-hHltxp.png",
+    "inStock": true,
+    "categoryId": "fgsa2142fa"
   },
   {
-    "id": "5b",
-    "name": "HyperX Cloud II",
-    "price": 115,
-    "currency": "USD",
+    "id": "5a",
+    "name": "Jordan 'Why Not?' Zer0.4 PF",
+    "price": 9100,
+    "currency": "Rs",
     "delivery": false,
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/719KtJ-RAFL._AC_SL1417_.jpg",
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/269972b5-c955-489e-bca4-e3bb93ab5065/jordan-why-not-zer04-pf-basketball-shoe-P3c3Rp.png",
+    "inStock": true,
+    "categoryId": "fgsa2142fa"
+  },
+  {
+    "id": "6a",
+    "name": "Air Jordan XXXV Low PF",
+    "price": 14050,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ea3a7118-8a54-4632-aa63-cac0e3683b98/air-jordan-xxxv-low-pf-basketball-shoe-x5srv9.png",
+    "inStock": true,
+    "categoryId": "fgsa2142fa"
+  },
+  
+  {
+    "id": "1b",
+    "name": "Nike Repel Miler",
+    "price": 4050,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d67b0045-8d0a-4aac-a1c8-d7d7378f75ef/repel-miler-running-jacket-Pprnvp.png",
     "inStock": true,
     "categoryId": "xasgy42fa"
-  },
+  }
+  ,
+  
+  {
+    "id": "2b",
+    "name": "Jordan Jumpman",
+    "price": 5150,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/57eb8a9f-7456-4ca7-b21e-50c4423b2b87/jordan-jumpman-windbreaker-NRn9Lk.png",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  }
+  ,
+  
+  {
+    "id": "3b",
+    "name": "Nike x sacai",
+    "price": 17995,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f7b433e2-6f66-4855-852b-5a6e5d735510/sacai-jacket-kk8G4q.png",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  }
+  ,
+  
+  {
+    "id": "4b",
+    "name": "Liverpool F.C.",
+    "price": 7995,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/b6db01f6-c805-44a3-a973-b6c146d456f6/liverpool-fc-dri-fit-football-jacket-qt7jj0.png",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  }
+  ,
+  
+  {
+    "id": "5b",
+    "name": "Liverpool F.C. Strike",
+    "price": 3995,
+    "currency": "Rs",
+    "delivery": false,
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/94e1832e-5f14-40fb-8da4-6350ecb3a598/liverpool-fc-strike-dri-fit-knit-football-tracksuit-jacket-TlZqDr.png",
+    "inStock": true,
+    "categoryId": "xasgy42fa"
+  }
+  ,
+  
   {
     "id": "6b",
-    "name": "Sennheiser PC 3 Chat",
-    "price": 60,
-    "currency": "USD",
+    "name": "Nike Therma-FIT Repel Run Division Miler",
+    "price": 5995,
+    "currency": "Rs",
     "delivery": false,
-    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+    "thumbnail": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fea58559-3a76-409f-9aad-69242028f918/repel-run-division-miler-running-jacket-M9zN2b.png",
     "inStock": true,
     "categoryId": "xasgy42fa"
   }
